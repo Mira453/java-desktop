@@ -25,7 +25,7 @@ public class Task56 {
 
         // Якщо не знайдено жодного від'ємного числа кратного 5
         if (!found) {
-            throw new IllegalArgumentException("Не знайдено від'ємних чисел кратного 5");
+            throw new IllegalArgumentException("Не знайдено від'ємних чисел кратних 5");
         }
 
         return product;
