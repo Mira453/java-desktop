@@ -1,5 +1,5 @@
 package lab7;
 
-public interface SortStrategy {
+interface SortStrategy {
     void sort(int[] array);
 }
